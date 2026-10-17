@@ -1,8 +1,11 @@
 <p align="center">
   <img src="banner_github.gif" alt="Banner Lara Magalhães" width="100%">
 </p>
+
 Heey! Welcome ☕👋🏻!
+
 Atualmente utilizando Kotlin🧠<br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lara-magalhães1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lara.magalhaes0311@gmail.com) 
 
